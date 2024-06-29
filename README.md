@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kanad Shee</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q1ZWo3dDZwOGEyMWtzOTg0N2MydDdvbDQ0eWhpYjNsazV5djFkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" align="right" alt=""/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q1ZWo3dDZwOGEyMWtzOTg0N2MydDdvbDQ0eWhpYjNsazV5djFkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" align="right" alt=""/>
 
 - 🌱 I’m currently learning **Web Development, DSA, OOPS**
 

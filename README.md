@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kanad Shee</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<div style="width:300px;height:0;padding-bottom:75%;align:right;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q1ZWo3dDZwOGEyMWtzOTg0N2MydDdvbDQ0eWhpYjNsazV5djFkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" align="right" alt=""/>
 
 - 🌱 I’m currently learning **Web Development, DSA, OOPS**
 

@@ -1,17 +1,17 @@
 ![logo](https://github.com/KanadShee-18/KanadShee-18/blob/main/Copy%20of%20Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 
 <h1 align="center">Hi! I'm <span style="color: #ff6347;">Kanad Shee</span>👋 </h1>
-<h3 align="center">A passionate <span style="color: #4682b4;">Web Developer</span> from <span style="color: #32cd32;">India</span></h3>
+<h3 align="center">A passionate <span style="color: #4682b4;">Full Stack Web Developer</span> from <span style="color: #32cd32;">India</span></h3>
 
 <hr>
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q1ZWo3dDZwOGEyMWtzOTg0N2MydDdvbDQ0eWhpYjNsazV5djFkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" align="right" alt=""/>
 
-- 🌱 I’m currently learning **Web Development, DSA, OOPS**
+- 🏫 I’m currently learning **Next Js, Typescript, Docker, Kubernetes**
 
-- 💬 Ask me about **C++, HTML, CSS, JavaScript, REACTJs, MongoDB, ExpressJs**
+- 🙋‍♂️ Ask me about **C++, JavaScript, REACTJs, MongoDB, ExpressJs**
 
-- 📫 Reach out to me: **kanadshee18@gmail.com**
+- 💌 Reach out to me: **kanadshee18@gmail.com**
 
 
 

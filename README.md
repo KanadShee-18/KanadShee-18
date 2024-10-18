@@ -1,7 +1,7 @@
 ![logo](https://github.com/KanadShee-18/KanadShee-18/blob/main/Copy%20of%20Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 
-<h1 align="center">Hi! I'm <span style="color: #ff6347;">Kanad Shee</span>👋 </h1>
-<h3 align="center">A passionate <span style="color: #4682b4;">Full Stack Web Developer</span> from <span style="color: #32cd32;">India</span></h3>
+<h1 align="center">Hi! I'm **Kanad Shee**👋 </h1>
+<h3 align="center">A passionate **Full Stack Web Developer** from <span style="color: #32cd32;">India</span></h3>
 
 <hr>
 

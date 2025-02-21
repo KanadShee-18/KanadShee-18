@@ -1,4 +1,4 @@
-![logo](https://github.com/KanadShee-18/KanadShee-18/blob/main/Copy%20of%20Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
+![logo](https://github.com/KanadShee-18/KanadShee-18/blob/main/social-media-banner.png)
 
 <h1 align="center">Hi! I'm Kanad Shee👋 </h1>
 <h3 align="center">A passionate Full Stack Web Developer from <span style="color: #32cd32;">India</span></h3>

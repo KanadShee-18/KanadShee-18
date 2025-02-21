@@ -10,9 +10,10 @@
 ### 🚀 I'm currently working on
 - Building scalable web applications using **Next.js** and **TypeScript**
 - Enhancing my skills in **Docker** and **Kubernetes** for containerization and orchestration
+- Building strong control in DevOps stuffs.
 
 ### 🤝 I'm looking to collaborate on
-- **Full Stack Web Development** projects, especially those involving **React**, **Next**, **Prisma**, **Postgress**, **Node.js**, **Express**, **MongoDB**, and **RESTful APIs**
+- **Full Stack Web Development** projects, especially those involving **Next**, **React**, **Prisma**, **Postgress**, **Node.js**, **Express**, **MongoDB**, and **RESTful APIs**
 - Open-source projects focused on **DevOps**, **microservices**, or **cloud-native** applications
 
 ### 🙋‍♂️ I'm looking for help with

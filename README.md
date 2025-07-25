@@ -24,9 +24,9 @@
 - Advanced **React** concepts and **backend optimization**
 
 ### 💬 Ask me about
-- **Full Stack Development** (React, Node.js, MongoDB, Express)
+- **Full Stack Development** (Next.js, React, Node.js, MongoDB, Express, Hono, tRPC, WebSocket, Real-Time, Kafka, RabbitMQ)
 - **Version control** with **Git**
-- **REST APIs**, **JWT Authentication**, and **Server-side rendering**
+- **REST APIs**, **OAuth**, **JWT Authentication**, and **Server-side rendering**
 
 ### ⚡ Fun fact
 - I often code late at night, powered by coffee, debugging errors like a detective on a mission!
